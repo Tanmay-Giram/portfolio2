@@ -10,12 +10,6 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright pt-2 ">
-          <a
-          href="https://github.com/soumyajit4419/Portfolio-master"
-          style={{ color: "white" }}
-          target="_blank" 
-          rel="noopener noreferrer"
-          >Forked -SB</a>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
